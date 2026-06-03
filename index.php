@@ -18,8 +18,8 @@ include 'login.php';
 
 <body  >
 
-    <main class="container align-content-center mt-5 " >
-        <div class="card w-50 h-auto mt-100 rounded-2 bg-black " style=" margin:10px auto; ">
+    <main class="container align-content-center  " style="margin-top: 150px;">
+        <div class=" w-50  h-100 mt-50 rounded-2 bg-black " style=" margin:10px auto;  ">
             <form class="w-50 h-auto text-light px-md-5" style="margin: 10px auto;">
                 <div class="form-group col  m-1">
                     <label for="exampleInputEmail1">Nome de usuario</label>
