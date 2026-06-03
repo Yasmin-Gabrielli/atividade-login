@@ -16,11 +16,11 @@ include 'login.php';
     <title>Login - Site entrada</title>
 </head>
 
-<body class=" mx-auto" >
+<body  >
 
-    <main class="container align-content-center mt-5 " style=" width: 100%; height: 70px">
-        <div class="card w-50 h-auto  rounded-2 bg-black " style="margin: 10px auto;">
-            <form class="w-50 h-50 text-light px-md-5" style="margin: 10px auto;">
+    <main class="container align-content-center mt-5 " >
+        <div class="card w-50 h-auto mt-100 rounded-2 bg-black " style=" margin:10px auto; ">
+            <form class="w-50 h-auto text-light px-md-5" style="margin: 10px auto;">
                 <div class="form-group col  m-1">
                     <label for="exampleInputEmail1">Nome de usuario</label>
                     <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp"
